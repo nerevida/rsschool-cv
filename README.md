@@ -1,2 +1,2 @@
 # rsschool-cv
-Task1 - Resume
+https://nerevida.github.io/rsschool-cv/cv
