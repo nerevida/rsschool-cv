@@ -6,7 +6,7 @@ __Anna Khomchenko__
 2. Contact Info:
 * phone: +375 29 1234567
 * email: juniordev@gmail.com
-* skype: TBD
+* skype: live.juniordev
 
 3.Self-presentation:
 
